@@ -3,6 +3,9 @@
 ### Overview
 This repository contains a Python implementation of a data processing pipeline for analyzing music data. The pipeline consists of several stages including splitting, mapping, shuffling, and reducing.
 
+The data originates from the following source:
+The following repository explains how to access the data:
+
 #### Components
 1. **split2.py**: Splits a CSV file into multiple chunks to facilitate parallel processing.
 2. **mapper2.py**: Implements the mapper logic to extract relevant information from music data.
